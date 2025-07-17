@@ -2,6 +2,8 @@
 
 visit: https://mern-thinkboard-1-c01d.onrender.com
 
+ThinkBoard is a simple and intuitive note-taking web app built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to easily add, edit, delete, and save notes in real time. Designed with a clean UI and smooth user experience, ThinkBoard is perfect for managing thoughts, tasks, or study notes—all in one place. It’s my first full-stack project that showcases CRUD functionality and seamless integration between frontend and backend.
+
 Highlights:
 
 - 🧱 Full-Stack App Built with the MERN Stack (MongoDB, Express, React, Node)
